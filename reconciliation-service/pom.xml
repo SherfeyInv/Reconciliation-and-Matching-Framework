@@ -17,9 +17,9 @@
 	<properties>
 		<commons-dbcp.version>2.0.1</commons-dbcp.version>
 		<kew-website-templates.version>0.1.0</kew-website-templates.version>
-		<mysql.version>5.1.31</mysql.version>
-		<postgresql.version>9.3-1100-jdbc41</postgresql.version>
-		<tiles.version>2.2.2</tiles.version>
+		<mysql.version>8.0.28</mysql.version>
+		<postgresql.version>42.3.9</postgresql.version>
+		<tiles.version>3.0.8</tiles.version>
 	</properties>
 
 	<dependencies>
@@ -89,7 +89,7 @@
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.2.2</version>
+			<version>1.5</version>
 		</dependency>
 
 		<!-- tiles stuff -->
