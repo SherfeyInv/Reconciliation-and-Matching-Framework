@@ -17,7 +17,7 @@
 	<properties>
 		<commons-dbcp.version>2.0.1</commons-dbcp.version>
 		<kew-website-templates.version>0.1.0</kew-website-templates.version>
-		<mysql.version>8.0.28</mysql.version>
+		<mysql.version>8.0.30</mysql.version>
 		<postgresql.version>42.3.9</postgresql.version>
 		<tiles.version>3.0.8</tiles.version>
 	</properties>
